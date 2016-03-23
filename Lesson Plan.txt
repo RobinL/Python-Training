@@ -1,0 +1,71 @@
+Section 1: The Basics!
+
+Lesson 1: 		A Introduction to Python (Basic intro, some resources, CS Concepts: IDEs, Text Editors, Anaconda, OOP)
+Lesson 2: 		First Steps with Python (Arithmetic, Variables, Ints, Floats, Strings, Bool)
+Exercise A: 	(Lessons 1 & 2)
+Lesson 3: 		Functions Part 1 (Built in Functions,  Nesting Functions, Creating Functions, String tokens, Docstrings)
+Lesson 4: 		Functions Part 2 (If/Elif Try/Except, Return)
+Exercise B: 	(Lessons 3 & 4)
+Lesson 5: 		Intro to data structures (Lists, Tuples, Dicts, Sets)
+Lesson 6: 		Lists, Indexing and Slicing
+Lesson 7: 		Methods
+Exercise C:		(Lessons 5-7)
+Lesson 8: 		Tuples
+Lesson 9: 		Dicts 
+Exercise D:		Using Dicts (Lessons 8-9)
+Lesson 10: 		Converting between Data Structures
+Exercise E:		Converting between Data Structures (Lesson 10)
+Lesson 11: 		Sets (optional as I personally never use sets - what do you think?)
+Lesson 12: 		List Comprehensions
+Lesson 13:		For Loops
+Lesson 14:		While Loops
+Exercise F,G,H	(Exercises 12-14)
+Lesson 15:		Cool Built in functions (map, zip, filter etc.)
+Lesson 16:		Importing and using collections/modules/packages etc.
+
+
+Section 2: Working with Data
+
+Lesson 1:		An introduction to Numpy & Pandas
+Lesson 2:		Arrays
+Exercise A:		(Lessons 1-2)
+Lesson 3:		Series and Dataframes in Pandas
+Exercise B:		(Lesson 3)
+Lesson 4: 		Indexing
+Exercise C:		(Lesson 3)
+Lesson 4:		Creating dataframes in Pandas (from csvs, excel, lists, tuples, dicts etc.)
+Lesson 5:		Basic Dataframe functions (drop, rename, keep, where, sort etc.)
+Lesson 6:		Converting between data types (arrays to lists to series to dataframes etc.)
+Lesson 7:		Tips for dealing with shitty data (Nan, missing data, converting between columns types (e.g. int to float etc.)
+Exercise D:		(Lessons 4-7)
+Lesson 8:		Groupby
+Lesson 9:		Aggregate functions 
+
+Probably a bit more needed here? What do you think?
+
+Section 3: Visualising Data
+
+Lesson 1:		Matplotlib, Seaborn and Bokeh (any other suggestions)
+Lesson 2-3:		Matplot stuff
+Lessons 4-6:	Seaborn
+Lessons 7-10	Interactive stuff with Bokeh
+
+Section 4: Advanced stuff! (These may have to be single lessons that showcase the power and point to more material (which we could develop ourselves?))
+
+Machine Learning
+NLP
+Interfacing with APIs
+Web Scraping
+Other popular libraries (Pillow, Django, SQLAlchemy etc.)
+Using Python for GIS
+
+Section 5: Other useful things we might want to consider
+
+Using pip / conda & PyPI
+Using Python from the command line
+Manually installing tar/zip files
+How to debug your code
+Stackoverflow & other resources
+
+
+
